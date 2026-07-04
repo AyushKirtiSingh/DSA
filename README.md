@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AyushKirtiSingh/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AyushKirtiSingh/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
