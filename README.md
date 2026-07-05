@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushKirtiSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/AyushKirtiSingh/DSA/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushKirtiSingh/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushKirtiSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
