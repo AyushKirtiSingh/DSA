@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AyushKirtiSingh/DSA/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
