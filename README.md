@@ -38,6 +38,7 @@
 | [0031-next-permutation](https://github.com/AyushKirtiSingh/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AyushKirtiSingh/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushKirtiSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
@@ -57,6 +58,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -90,6 +92,7 @@
 | [0029-divide-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AyushKirtiSingh/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
+| [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
