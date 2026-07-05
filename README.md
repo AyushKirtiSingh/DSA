@@ -12,6 +12,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AyushKirtiSingh/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushKirtiSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -85,6 +86,7 @@
 | [0007-reverse-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AyushKirtiSingh/DSA/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -128,4 +130,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/0029-divide-two-integers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
