@@ -46,6 +46,7 @@
 | [0896-monotonic-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/AyushKirtiSingh/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AyushKirtiSingh/DSA/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AyushKirtiSingh/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -112,6 +113,7 @@
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/AyushKirtiSingh/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -176,6 +178,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushKirtiSingh/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/AyushKirtiSingh/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AyushKirtiSingh/DSA/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/AyushKirtiSingh/DSA/tree/master/1288-remove-covered-intervals) |
