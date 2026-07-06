@@ -45,6 +45,7 @@
 | [0896-monotonic-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/AyushKirtiSingh/DSA/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AyushKirtiSingh/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1288-remove-covered-intervals](https://github.com/AyushKirtiSingh/DSA/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushKirtiSingh/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -159,6 +160,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushKirtiSingh/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/AyushKirtiSingh/DSA/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/AyushKirtiSingh/DSA/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushKirtiSingh/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -175,6 +177,7 @@
 | [0169-majority-element](https://github.com/AyushKirtiSingh/DSA/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/AyushKirtiSingh/DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/AyushKirtiSingh/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushKirtiSingh/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
