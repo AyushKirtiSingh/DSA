@@ -207,6 +207,7 @@
 | [0066-plus-one](https://github.com/AyushKirtiSingh/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AyushKirtiSingh/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/AyushKirtiSingh/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AyushKirtiSingh/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AyushKirtiSingh/DSA/tree/master/0367-valid-perfect-square) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AyushKirtiSingh/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/AyushKirtiSingh/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AyushKirtiSingh/DSA/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
@@ -286,6 +288,7 @@
 | [0029-divide-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/AyushKirtiSingh/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AyushKirtiSingh/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AyushKirtiSingh/DSA/tree/master/0645-set-mismatch) |
