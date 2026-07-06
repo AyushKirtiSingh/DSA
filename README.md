@@ -47,6 +47,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AyushKirtiSingh/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/AyushKirtiSingh/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/AyushKirtiSingh/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Prefix Sum
 |  |
@@ -167,6 +168,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AyushKirtiSingh/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/AyushKirtiSingh/DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AyushKirtiSingh/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/AyushKirtiSingh/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
