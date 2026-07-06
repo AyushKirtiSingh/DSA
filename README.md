@@ -37,6 +37,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushKirtiSingh/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushKirtiSingh/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1672-richest-customer-wealth](https://github.com/AyushKirtiSingh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/AyushKirtiSingh/DSA/tree/master/1672-richest-customer-wealth) |
 ## Quickselect
 |  |
 | ------- |
