@@ -137,6 +137,7 @@
 | [0069-sqrtx](https://github.com/AyushKirtiSingh/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushKirtiSingh/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AyushKirtiSingh/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -208,6 +209,7 @@
 | [0043-multiply-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/AyushKirtiSingh/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
