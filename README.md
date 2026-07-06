@@ -21,6 +21,7 @@
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AyushKirtiSingh/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
