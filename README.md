@@ -64,6 +64,7 @@
 | [1920-build-array-from-permutation](https://github.com/AyushKirtiSingh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyushKirtiSingh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2293-min-max-game](https://github.com/AyushKirtiSingh/DSA/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -118,6 +119,7 @@
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyushKirtiSingh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
 ## Binary Search
@@ -170,6 +172,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushKirtiSingh/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyushKirtiSingh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AyushKirtiSingh/DSA/tree/master/2733-neither-minimum-nor-maximum) |
