@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AyushKirtiSingh/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/AyushKirtiSingh/DSA/tree/master/0031-next-permutation) |
@@ -211,6 +212,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AyushKirtiSingh/DSA/tree/master/0169-majority-element) |
