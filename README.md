@@ -275,6 +275,7 @@
 | [0367-valid-perfect-square](https://github.com/AyushKirtiSingh/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0728-self-dividing-numbers) |
@@ -310,6 +311,7 @@
 | [0050-powx-n](https://github.com/AyushKirtiSingh/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AyushKirtiSingh/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AyushKirtiSingh/DSA/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -441,6 +443,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushKirtiSingh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0509-fibonacci-number) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Union-Find
 |  |
@@ -454,4 +457,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
