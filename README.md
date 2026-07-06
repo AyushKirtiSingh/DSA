@@ -57,6 +57,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/AyushKirtiSingh/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/AyushKirtiSingh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2293-min-max-game](https://github.com/AyushKirtiSingh/DSA/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -335,6 +336,7 @@
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/AyushKirtiSingh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2293-min-max-game](https://github.com/AyushKirtiSingh/DSA/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
