@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/AyushKirtiSingh/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AyushKirtiSingh/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushKirtiSingh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0136-single-number) |
@@ -426,6 +427,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushKirtiSingh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0392-is-subsequence) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
