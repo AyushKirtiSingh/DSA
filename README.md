@@ -35,6 +35,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/AyushKirtiSingh/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Prefix Sum
 |  |
@@ -53,6 +54,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0043-multiply-strings) |
+| [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
