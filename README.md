@@ -232,6 +232,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushKirtiSingh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3908-valid-digit-number](https://github.com/AyushKirtiSingh/DSA/tree/master/3908-valid-digit-number) |
 ## Recursion
 |  |
 | ------- |
