@@ -194,6 +194,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/2235-add-two-integers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2469-convert-the-temperature](https://github.com/AyushKirtiSingh/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AyushKirtiSingh/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/AyushKirtiSingh/DSA/tree/master/2652-sum-multiples) |
