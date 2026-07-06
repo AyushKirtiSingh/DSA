@@ -1,24 +1,8 @@
 class Solution {
 public:
     int minPartitions(string n) {
-        int count = 0;
+        char max_char = *max_element(begin(n),end(n));
 
-        while (true) {
-            bool changed = false;
-
-            for (char &ch : n) {
-                if (ch != '0') {
-                    ch--;          // subtract 1
-                    changed = true;
-                }
-            }
-
-            if (changed==false)
-                break;
-
-            count++;
-        }
-
-        return count;
+        return max_char - '0';
     }
 };
