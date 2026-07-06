@@ -32,6 +32,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/AyushKirtiSingh/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Prefix Sum
 |  |
@@ -94,6 +95,7 @@
 | [0561-array-partition](https://github.com/AyushKirtiSingh/DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
 |  |
@@ -112,6 +115,7 @@
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AyushKirtiSingh/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Recursion
 |  |
 | ------- |
