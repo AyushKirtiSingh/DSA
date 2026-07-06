@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -75,6 +76,7 @@
 | [0162-find-peak-element](https://github.com/AyushKirtiSingh/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushKirtiSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/AyushKirtiSingh/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/AyushKirtiSingh/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
@@ -110,6 +113,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/AyushKirtiSingh/DSA/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -124,6 +128,7 @@
 | [0043-multiply-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AyushKirtiSingh/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AyushKirtiSingh/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -173,6 +178,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/AyushKirtiSingh/DSA/tree/master/0645-set-mismatch) |
 ## Enumeration
 |  |
