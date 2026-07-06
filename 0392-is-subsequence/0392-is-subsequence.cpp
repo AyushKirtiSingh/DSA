@@ -18,22 +18,6 @@ public:
                 pos = idx + 1;
             }
         }
-
-        if(s.length()==0){
-            ans = true;
-        }
-        if(t.length()==0){
-            ans = false;
-        }
-
-        if(s.length()>t.length()){
-            ans = false;
-        }
-
-        if(s.length()==0 && t.length()==0){
-            ans = true;
-        }
-
         return ans;
         
     }
