@@ -178,6 +178,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
 |  |
@@ -300,6 +301,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKirtiSingh/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/AyushKirtiSingh/DSA/tree/master/2942-find-words-containing-character) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
 |  |
