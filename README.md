@@ -45,6 +45,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AyushKirtiSingh/DSA/tree/master/2733-neither-minimum-nor-maximum) |
@@ -174,6 +175,7 @@
 | [2235-add-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/2235-add-two-integers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AyushKirtiSingh/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/AyushKirtiSingh/DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AyushKirtiSingh/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/AyushKirtiSingh/DSA/tree/master/3024-type-of-triangle) |
