@@ -23,6 +23,7 @@
 | [0238-product-of-array-except-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/AyushKirtiSingh/DSA/tree/master/0561-array-partition) |
@@ -71,6 +72,7 @@
 | [0031-next-permutation](https://github.com/AyushKirtiSingh/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AyushKirtiSingh/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushKirtiSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -100,6 +102,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AyushKirtiSingh/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
@@ -117,6 +120,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AyushKirtiSingh/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AyushKirtiSingh/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/AyushKirtiSingh/DSA/tree/master/0561-array-partition) |
@@ -150,6 +154,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/AyushKirtiSingh/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AyushKirtiSingh/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/AyushKirtiSingh/DSA/tree/master/0645-set-mismatch) |
