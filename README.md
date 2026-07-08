@@ -283,6 +283,7 @@
 | [0326-power-of-three](https://github.com/AyushKirtiSingh/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AyushKirtiSingh/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -404,6 +405,7 @@
 | [0389-find-the-difference](https://github.com/AyushKirtiSingh/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/AyushKirtiSingh/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/AyushKirtiSingh/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AyushKirtiSingh/DSA/tree/master/0771-jewels-and-stones) |
@@ -427,6 +429,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/AyushKirtiSingh/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/AyushKirtiSingh/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1929-concatenation-of-array) |
