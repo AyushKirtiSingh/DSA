@@ -102,6 +102,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKirtiSingh/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AyushKirtiSingh/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushKirtiSingh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3861-minimum-capacity-box](https://github.com/AyushKirtiSingh/DSA/tree/master/3861-minimum-capacity-box) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/AyushKirtiSingh/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -181,6 +182,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AyushKirtiSingh/DSA/tree/master/2540-minimum-common-value) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AyushKirtiSingh/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -467,6 +470,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Geometry
 |  |
 | ------- |
@@ -479,4 +483,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0509-fibonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
