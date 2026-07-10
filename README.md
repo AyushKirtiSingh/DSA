@@ -63,6 +63,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyushKirtiSingh/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/AyushKirtiSingh/DSA/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/AyushKirtiSingh/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/AyushKirtiSingh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -422,6 +423,7 @@
 | [1108-defanging-an-ip-address](https://github.com/AyushKirtiSingh/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/AyushKirtiSingh/DSA/tree/master/1496-path-crossing) |
+| [1528-shuffle-string](https://github.com/AyushKirtiSingh/DSA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/AyushKirtiSingh/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
