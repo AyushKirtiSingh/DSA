@@ -28,16 +28,13 @@ public:
 
     int shipWithinDays(vector<int>& weights, int days) {
         int n = weights.size();
-        // if(days>n){
-        //     return -1;
-        // }
 
         int sum = 0;
         for(int i=0;i<n;i++){
             sum += weights[i];
         }
 
-        int st = 0, end = sum;
+        int st = *max_element(weights.begin(),weights.end()), end = sum;
         int ans = -1;
 
         while(st<=end){
