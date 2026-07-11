@@ -23,9 +23,6 @@ public:
 
     int maxDistance(vector<int>& position, int m) {
         int n = position.size();
-        if(m>n){
-            return -1;
-        }
 
         int maxVal = INT_MIN;
         int minVal = INT_MAX;
