@@ -4,13 +4,13 @@ public:
         int maxVal = INT_MIN;
         int count = 1;
         int ans = 0;
-        if(nums.size()==2){
-            ans = max(nums[0],nums[1]);
-            return ans;
-        }
-        if(nums.size()==1){
-            return nums[0];
-        }
+        // if(nums.size()==2){
+        //     ans = max(nums[0],nums[1]);
+        //     return ans;
+        // }
+        // if(nums.size()==1){
+        //     return nums[0];
+        // }
 
         if(nums.size()==3){
             if(nums[0]==nums[1] || nums[1]==nums[2] || nums[0]==nums[2]){
