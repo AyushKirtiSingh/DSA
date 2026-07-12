@@ -4,31 +4,43 @@ public:
         int start = i;
         int end = nums.size()-1;
         while(start<end){
-            swap(nums,start,end);
+            swap(nums[start],nums[end]);
             start++;
             end--;
         }
     }    
 
-    void swap(vector<int>& nums,int i, int j){
+    void myswap(vector<int>& nums,int i, int j){
         int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;
     }
     void nextPermutation(vector<int>& nums) {
-       int i = nums.size() - 2;
-       while(i>=0 && nums[i]>=nums[i+1]){
-        i--;
+       int piv = -1;
+       int n = nums.size();
+
+       for(int i=n-2;i>=0;i--){
+           if(nums[i]<nums[i+1]){
+              piv = i;
+              break;
+           }
        }
-       if(i>=0){
-        int j = nums.size() - 1;
-        while(j>=0 && nums[j]<=nums[i]){
-            j--;
-        }
-        swap(nums,i,j);
+
+       if(piv==-1){
+           reverse(nums,0);
+           return;
+       }
+
+
+       for(int i=n-1;i>=0;i--){
+            if(nums[i]>nums[piv]){
+                myswap(nums,i,piv);
+                break;
+            }
        }
        
-       reverse(nums,i+1);
-
+       reverse(nums,piv+1);
+        
+       
     }
 };
