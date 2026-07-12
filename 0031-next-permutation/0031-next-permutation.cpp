@@ -9,12 +9,7 @@ public:
             end--;
         }
     }    
-
-    void myswap(vector<int>& nums,int i, int j){
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
-    }
+    
     void nextPermutation(vector<int>& nums) {
        int piv = -1;
        int n = nums.size();
@@ -34,7 +29,7 @@ public:
 
        for(int i=n-1;i>=0;i--){
             if(nums[i]>nums[piv]){
-                myswap(nums,i,piv);
+                swap(nums[i],nums[piv]);
                 break;
             }
        }
