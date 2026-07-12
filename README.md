@@ -92,6 +92,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/AyushKirtiSingh/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/AyushKirtiSingh/DSA/tree/master/2540-minimum-common-value) |
@@ -165,6 +166,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyushKirtiSingh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/AyushKirtiSingh/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
 ## Binary Search
 |  |
@@ -194,6 +196,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AyushKirtiSingh/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/AyushKirtiSingh/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AyushKirtiSingh/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushKirtiSingh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -234,6 +237,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyushKirtiSingh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/AyushKirtiSingh/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AyushKirtiSingh/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushKirtiSingh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
