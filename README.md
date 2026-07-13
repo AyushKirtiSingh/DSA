@@ -413,6 +413,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/AyushKirtiSingh/DSA/tree/master/1291-sequential-digits) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
