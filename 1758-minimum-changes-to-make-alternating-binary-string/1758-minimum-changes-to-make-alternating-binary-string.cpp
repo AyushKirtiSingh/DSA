@@ -1,6 +1,23 @@
+//Index : 0 1 2 3 4 5
+/*Pattern 1
+        0 1 0 1 0 1
+                                    //this is the basic idea of this problem
+Pattern 2
+        1 0 1 0 1 0
+
+Now memorize only these four rules:
+
+Pattern 1
+Even index → '0'
+Odd index → '1'
+Pattern 2
+Even index → '1'
+Odd index → '0'*/
+
 class Solution {
 public:
-    int minOperations(string s) {
+    int minOperations(string s) {               
+
         int startswith0 = 0;
         int startswith1 = 0;
 
