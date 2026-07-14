@@ -61,6 +61,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/AyushKirtiSingh/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1288-remove-covered-intervals](https://github.com/AyushKirtiSingh/DSA/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushKirtiSingh/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushKirtiSingh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushKirtiSingh/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -429,6 +430,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushKirtiSingh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
