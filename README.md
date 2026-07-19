@@ -343,6 +343,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/AyushKirtiSingh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/AyushKirtiSingh/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AyushKirtiSingh/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -436,6 +437,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/AyushKirtiSingh/DSA/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushKirtiSingh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
