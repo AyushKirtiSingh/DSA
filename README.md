@@ -340,6 +340,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AyushKirtiSingh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/AyushKirtiSingh/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/AyushKirtiSingh/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/2235-add-two-integers) |
@@ -430,12 +431,14 @@
 | ------- |
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/AyushKirtiSingh/DSA/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/AyushKirtiSingh/DSA/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/AyushKirtiSingh/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AyushKirtiSingh/DSA/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushKirtiSingh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
