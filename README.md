@@ -71,6 +71,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyushKirtiSingh/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/AyushKirtiSingh/DSA/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/AyushKirtiSingh/DSA/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AyushKirtiSingh/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -264,6 +265,7 @@
 | [1051-height-checker](https://github.com/AyushKirtiSingh/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushKirtiSingh/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyushKirtiSingh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -293,6 +295,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushKirtiSingh/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1496-path-crossing](https://github.com/AyushKirtiSingh/DSA/tree/master/1496-path-crossing) |
+| [1512-number-of-good-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKirtiSingh/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -338,6 +341,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AyushKirtiSingh/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AyushKirtiSingh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/AyushKirtiSingh/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
