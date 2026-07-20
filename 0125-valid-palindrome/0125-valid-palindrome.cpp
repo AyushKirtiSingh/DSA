@@ -5,7 +5,7 @@ public:
         int right = s.length()-1;
        
 
-        while(left<=right){
+        while(left<right){
             if(!isalnum(s[left])){
                 left++;
                 
