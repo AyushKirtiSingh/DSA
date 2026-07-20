@@ -8,7 +8,7 @@ public:
 
         k = k % total;
 
-        for(int i=0;i<k;i++){
+        for(int i=0;i<k;i++){           // part where the shuffling is done on grid k times
             int curr = grid[0][0];
             int prev = grid[0][0];
 
