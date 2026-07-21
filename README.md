@@ -152,6 +152,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/AyushKirtiSingh/DSA/tree/master/0881-boats-to-save-people) |
@@ -288,6 +289,7 @@
 | [0389-find-the-difference](https://github.com/AyushKirtiSingh/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/AyushKirtiSingh/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/AyushKirtiSingh/DSA/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -453,6 +455,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushKirtiSingh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -470,6 +473,7 @@
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/AyushKirtiSingh/DSA/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/AyushKirtiSingh/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AyushKirtiSingh/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/AyushKirtiSingh/DSA/tree/master/1108-defanging-an-ip-address) |
