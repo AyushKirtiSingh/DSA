@@ -153,6 +153,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/AyushKirtiSingh/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -474,6 +475,7 @@
 | [0392-is-subsequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/AyushKirtiSingh/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/AyushKirtiSingh/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/AyushKirtiSingh/DSA/tree/master/0709-to-lower-case) |
