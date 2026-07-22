@@ -1,21 +1,19 @@
 class Solution {
 public:
     int reverse(int x) {
-        string str = to_string(x);
-        
-        string str2;
-        long result;
-         for(int i=str.length()-1;i>=0;i--){
-            str2 += str[i];
+        int revnum = 0;
+
+        while(x != 0){
+            int digit = x % 10;
+            if(revnum > INT_MAX/10 || revnum < INT_MIN/10){
+                return 0;
+            }
+            revnum = (revnum * 10) + digit;
+            x = x/10;
         }
-        result = stol(str2);
-        if(x<0){
-            result *= -1;
-        }
-        if(result>pow(2,31)-1 || result<pow(-2,31)){
-            return 0;
-        }
-        return result;
-        
+        // if(x<0){
+        //     revnum *= -1;
+        // }
+        return revnum;
     }
 };
