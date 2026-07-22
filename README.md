@@ -99,6 +99,7 @@
 | [2293-min-max-game](https://github.com/AyushKirtiSingh/DSA/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AyushKirtiSingh/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/AyushKirtiSingh/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -355,6 +356,7 @@
 | [2235-add-two-integers](https://github.com/AyushKirtiSingh/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/AyushKirtiSingh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AyushKirtiSingh/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2469-convert-the-temperature](https://github.com/AyushKirtiSingh/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AyushKirtiSingh/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -450,6 +452,7 @@
 | [1952-three-divisors](https://github.com/AyushKirtiSingh/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AyushKirtiSingh/DSA/tree/master/2413-smallest-even-multiple) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AyushKirtiSingh/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushKirtiSingh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
