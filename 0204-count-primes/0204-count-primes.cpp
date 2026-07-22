@@ -1,15 +1,16 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        vector<bool> v(n,true);
+        vector <bool> v(n+1,true);
         int count = 0;
         for(int i=2;i<n;i++){
-            if(v[i]==true){
+            if(v[i]){
                 count++;
-                for(int j=2*i;j<n;j+=i){
-                    v[j]=false;
+                for(int j=i*2;j<n;j = j+i){
+                   v[j] = false;
                 }
             }
+            
         }
         return count;
         
