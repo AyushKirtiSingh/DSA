@@ -73,6 +73,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/AyushKirtiSingh/DSA/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/AyushKirtiSingh/DSA/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/AyushKirtiSingh/DSA/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AyushKirtiSingh/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/AyushKirtiSingh/DSA/tree/master/1672-richest-customer-wealth) |
@@ -442,6 +443,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/AyushKirtiSingh/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/AyushKirtiSingh/DSA/tree/master/1291-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/AyushKirtiSingh/DSA/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/AyushKirtiSingh/DSA/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
