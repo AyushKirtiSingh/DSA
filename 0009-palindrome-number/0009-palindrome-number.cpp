@@ -1,16 +1,22 @@
 class Solution {
 public:
-    int r;
-    long sum=0;
-    
     bool isPalindrome(int x) {
-        int  temp = x;
-        while(x>0){
-            r = x%10;
-            sum = (sum*10)+r;
-            x = x/10;
+        if(x<0){
+            return false;
         }
-        if(temp==sum){
+        int temp = x;
+        int revnum = 0;
+        while(temp!=0){
+            int digit = temp % 10;
+            if(revnum<INT_MIN/10 || revnum>INT_MAX/10){
+                return 0;
+            }
+            revnum = (revnum * 10) + digit;
+
+            temp = temp/10;
+            
+        }
+        if(revnum==x){
             return true;
         }
         else{
