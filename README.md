@@ -77,6 +77,7 @@
 | [1534-count-good-triplets](https://github.com/AyushKirtiSingh/DSA/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/AyushKirtiSingh/DSA/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AyushKirtiSingh/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AyushKirtiSingh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -536,6 +537,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/AyushKirtiSingh/DSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AyushKirtiSingh/DSA/tree/master/1672-richest-customer-wealth) |
 ## Quickselect
 |  |
