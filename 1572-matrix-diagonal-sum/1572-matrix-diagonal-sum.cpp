@@ -5,13 +5,10 @@ public:
         int sum = 0;
 
         for(int i=0;i<mat.size();i++){
-            for(int j=0;j<mat[i].size();j++){
-                if(i==j){
-                    sum += mat[i][j];
-                }
-                else if(j==n-1-i){
-                    sum += mat[i][j];
-                }
+            sum += mat[i][i];
+
+            if(i!=n-1-i){
+                sum += mat[i][n-1-i];
             }
         }
         return sum;
