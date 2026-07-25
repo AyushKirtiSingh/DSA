@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AyushKirtiSingh/DSA/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/AyushKirtiSingh/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -518,6 +519,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/AyushKirtiSingh/DSA/tree/master/1260-shift-2d-grid) |
@@ -540,6 +542,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
