@@ -202,6 +202,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/AyushKirtiSingh/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -393,6 +394,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/AyushKirtiSingh/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AyushKirtiSingh/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyushKirtiSingh/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/AyushKirtiSingh/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKirtiSingh/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -535,6 +537,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushKirtiSingh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/AyushKirtiSingh/DSA/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
