@@ -3,7 +3,7 @@ public:
     void getperms(vector<int>& nums,int idx,vector<vector<int>>&ans){
         if(idx==nums.size()){
             ans.push_back({nums});
-            return;
+            return;                     //void mein jab bhi koi function khatam hota h toh woh return back karta h
         }
 
         for(int i=idx;i<nums.size();i++){
