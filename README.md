@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AyushKirtiSingh/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/AyushKirtiSingh/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AyushKirtiSingh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AyushKirtiSingh/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0054-spiral-matrix) |
@@ -310,6 +311,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/AyushKirtiSingh/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AyushKirtiSingh/DSA/tree/master/0169-majority-element) |
@@ -572,6 +574,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AyushKirtiSingh/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -628,6 +631,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AyushKirtiSingh/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AyushKirtiSingh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AyushKirtiSingh/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AyushKirtiSingh/DSA/tree/master/0078-subsets) |
