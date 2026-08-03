@@ -520,6 +520,7 @@
 | [0043-multiply-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AyushKirtiSingh/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AyushKirtiSingh/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AyushKirtiSingh/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AyushKirtiSingh/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0344-reverse-string) |
@@ -602,6 +603,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushKirtiSingh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/AyushKirtiSingh/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/AyushKirtiSingh/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0509-fibonacci-number) |
@@ -646,6 +648,7 @@
 | [0051-n-queens](https://github.com/AyushKirtiSingh/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AyushKirtiSingh/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AyushKirtiSingh/DSA/tree/master/0131-palindrome-partitioning) |
 ## Minimax
 |  |
 | ------- |
