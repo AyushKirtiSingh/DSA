@@ -125,6 +125,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/AyushKirtiSingh/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/AyushKirtiSingh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2679-sum-in-a-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AyushKirtiSingh/DSA/tree/master/2733-neither-minimum-nor-maximum) |
@@ -158,6 +159,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AyushKirtiSingh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AyushKirtiSingh/DSA/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/AyushKirtiSingh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
