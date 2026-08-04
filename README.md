@@ -148,6 +148,7 @@
 | [3731-find-missing-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/AyushKirtiSingh/DSA/tree/master/3861-minimum-capacity-box) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/AyushKirtiSingh/DSA/tree/master/3895-count-digit-appearances) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/AyushKirtiSingh/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3921-score-validator](https://github.com/AyushKirtiSingh/DSA/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/AyushKirtiSingh/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -421,6 +422,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/AyushKirtiSingh/DSA/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/AyushKirtiSingh/DSA/tree/master/3908-valid-digit-number) |
 ## Recursion
 |  |
