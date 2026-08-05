@@ -131,6 +131,7 @@
 | [2540-minimum-common-value](https://github.com/AyushKirtiSingh/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AyushKirtiSingh/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AyushKirtiSingh/DSA/tree/master/2733-neither-minimum-nor-maximum) |
@@ -598,6 +599,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/AyushKirtiSingh/DSA/tree/master/2974-minimum-number-game) |
@@ -616,6 +618,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AyushKirtiSingh/DSA/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/AyushKirtiSingh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Quickselect
@@ -689,4 +692,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/0493-reverse-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
