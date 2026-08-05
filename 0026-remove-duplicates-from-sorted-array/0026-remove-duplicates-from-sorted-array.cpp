@@ -14,13 +14,7 @@ public:
             }
         }
 
-        set<int> s;
-
-        for(int x:nums){
-            s.insert(x);
-        }
-
-        return s.size();
+        return i+1;
         
         
     }
