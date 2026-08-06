@@ -428,6 +428,7 @@
 | [3024-type-of-triangle](https://github.com/AyushKirtiSingh/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKirtiSingh/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AyushKirtiSingh/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushKirtiSingh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushKirtiSingh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -518,6 +519,7 @@
 | [1534-count-good-triplets](https://github.com/AyushKirtiSingh/DSA/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/AyushKirtiSingh/DSA/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
