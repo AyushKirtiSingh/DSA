@@ -25,6 +25,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AyushKirtiSingh/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AyushKirtiSingh/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0090-subsets-ii) |
@@ -562,6 +563,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AyushKirtiSingh/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AyushKirtiSingh/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AyushKirtiSingh/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -632,6 +634,7 @@
 | [0054-spiral-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushKirtiSingh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/AyushKirtiSingh/DSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -694,6 +697,7 @@
 | [0046-permutations](https://github.com/AyushKirtiSingh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AyushKirtiSingh/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AyushKirtiSingh/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AyushKirtiSingh/DSA/tree/master/0131-palindrome-partitioning) |
 ## Minimax
@@ -715,6 +719,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
