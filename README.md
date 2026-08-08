@@ -602,6 +602,7 @@
 | [3110-score-of-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3163-string-compression-iii](https://github.com/AyushKirtiSingh/DSA/tree/master/3163-string-compression-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AyushKirtiSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3921-score-validator](https://github.com/AyushKirtiSingh/DSA/tree/master/3921-score-validator) |
