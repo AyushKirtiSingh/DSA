@@ -216,6 +216,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/AyushKirtiSingh/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushKirtiSingh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/AyushKirtiSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -602,6 +603,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/AyushKirtiSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3921-score-validator](https://github.com/AyushKirtiSingh/DSA/tree/master/3921-score-validator) |
 ## Simulation
 |  |
@@ -626,6 +628,7 @@
 | [2679-sum-in-a-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/AyushKirtiSingh/DSA/tree/master/2974-minimum-number-game) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/AyushKirtiSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/AyushKirtiSingh/DSA/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/AyushKirtiSingh/DSA/tree/master/3925-concatenate-array-with-reverse) |
