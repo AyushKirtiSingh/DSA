@@ -462,6 +462,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AyushKirtiSingh/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AyushKirtiSingh/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AyushKirtiSingh/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0509-fibonacci-number) |
@@ -736,4 +737,8 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
