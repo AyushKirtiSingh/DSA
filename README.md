@@ -206,6 +206,7 @@
 | [0567-permutation-in-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/AyushKirtiSingh/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AyushKirtiSingh/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -742,4 +743,5 @@
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
