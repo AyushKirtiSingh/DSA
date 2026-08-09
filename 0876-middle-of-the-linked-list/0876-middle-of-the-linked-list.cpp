@@ -10,32 +10,27 @@
  */
 class Solution {
 public:
-    ListNode* middleNode(ListNode* head) {
-        int size = 0;
-        ListNode* curr = head;
+    ListNode* middleNode(ListNode* head) {     //SC:O(1) & TC:O(n)
 
-        while(curr!=NULL){
-            size++;              //this is used in calculating the size of the linked list
-            curr = curr->next;
-        }
-        int mid = 0;
+        // Slow pointer ek-ek node move karega
+        ListNode* slow = head;
 
-        if(size%2!=0){
-            mid = (size/2);
-        }                    //it gives the middle index of the linked list acc to question it is same for both even or odd size
-        else{
-            mid = (size/2);
-        }
+        // Fast pointer ek baar mein do nodes move karega
+        ListNode* fast = head;
 
-        ListNode* temp = head;
-        int idx = 0;
+        // Jab tak fast end tak nahi pahunchta,
+        // slow aur fast ko move karte rahenge
+        while(fast != NULL && fast->next != NULL) {
 
-        while(idx!=mid){
-            temp = temp->next;    //traverse temp till idx becomes mid means temp will traversed till mid
-            idx++;
+            // Slow 1 step aage jayega
+            slow = slow->next;
+
+            // Fast 2 steps aage jayega
+            fast = fast->next->next;
         }
 
-        return temp;   //as temp is the new head and position same as mid thats why we return temp
-        
+        // Jab fast end par pahunch jayega,
+        // slow middle node par hoga
+        return slow;
     }
 };
