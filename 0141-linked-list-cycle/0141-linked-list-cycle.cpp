@@ -14,13 +14,13 @@ public:
         ListNode* fast = head;
 
         while(fast!=NULL && fast->next!=NULL){
-            if(fast->next->next == slow){
+            slow = slow->next;
+            fast = fast->next->next;    //in a cyclic list there will surely come a point when fast becomes equal to slow pointer
+            if(slow==fast){
                 return true;
             }
-            fast = fast->next->next;
-            slow = slow->next;
         }
 
-        return false;
+        return false;    //but in non cyclic it will never happen
     }
 };
