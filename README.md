@@ -133,6 +133,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2293-min-max-game](https://github.com/AyushKirtiSingh/DSA/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2404-most-frequent-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/AyushKirtiSingh/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2460-apply-operations-to-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -356,6 +357,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyushKirtiSingh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/2248-intersection-of-multiple-arrays) |
+| [2404-most-frequent-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -401,6 +403,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2404-most-frequent-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/AyushKirtiSingh/DSA/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
