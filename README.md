@@ -166,6 +166,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushKirtiSingh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/AyushKirtiSingh/DSA/tree/master/3861-minimum-capacity-box) |
+| [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/AyushKirtiSingh/DSA/tree/master/3895-count-digit-appearances) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/AyushKirtiSingh/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -360,6 +361,7 @@
 | [2404-most-frequent-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -415,6 +417,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
