@@ -336,6 +336,7 @@
 | [2679-sum-in-a-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/AyushKirtiSingh/DSA/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AyushKirtiSingh/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2785-sort-vowels-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushKirtiSingh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/AyushKirtiSingh/DSA/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/AyushKirtiSingh/DSA/tree/master/3024-type-of-triangle) |
@@ -632,6 +633,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushKirtiSingh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2785-sort-vowels-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/AyushKirtiSingh/DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/3110-score-of-a-string) |
