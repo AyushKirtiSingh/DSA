@@ -606,6 +606,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AyushKirtiSingh/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AyushKirtiSingh/DSA/tree/master/0049-group-anagrams) |
@@ -741,6 +742,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AyushKirtiSingh/DSA/tree/master/0020-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushKirtiSingh/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
@@ -815,4 +817,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AyushKirtiSingh/DSA/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AyushKirtiSingh/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
