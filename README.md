@@ -811,4 +811,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0229-majority-element-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AyushKirtiSingh/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
