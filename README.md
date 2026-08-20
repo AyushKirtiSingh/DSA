@@ -432,6 +432,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/AyushKirtiSingh/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -498,6 +499,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/AyushKirtiSingh/DSA/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/AyushKirtiSingh/DSA/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/AyushKirtiSingh/DSA/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
