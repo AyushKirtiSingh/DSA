@@ -74,6 +74,7 @@
 | [0692-top-k-frequent-words](https://github.com/AyushKirtiSingh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AyushKirtiSingh/DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushKirtiSingh/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/AyushKirtiSingh/DSA/tree/master/0877-stone-game) |
@@ -760,6 +761,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushKirtiSingh/DSA/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushKirtiSingh/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
@@ -846,4 +848,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
