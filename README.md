@@ -103,6 +103,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyushKirtiSingh/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushKirtiSingh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/AyushKirtiSingh/DSA/tree/master/1528-shuffle-string) |
@@ -778,6 +779,7 @@
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushKirtiSingh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushKirtiSingh/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
@@ -872,6 +874,7 @@
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushKirtiSingh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
