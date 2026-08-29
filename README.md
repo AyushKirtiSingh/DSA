@@ -162,6 +162,7 @@
 | [3024-type-of-triangle](https://github.com/AyushKirtiSingh/DSA/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AyushKirtiSingh/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AyushKirtiSingh/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -435,6 +436,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AyushKirtiSingh/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushKirtiSingh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
