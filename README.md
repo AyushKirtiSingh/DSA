@@ -130,6 +130,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/AyushKirtiSingh/DSA/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AyushKirtiSingh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyushKirtiSingh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -256,6 +257,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyushKirtiSingh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AyushKirtiSingh/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/AyushKirtiSingh/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
