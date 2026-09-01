@@ -66,6 +66,7 @@
 | [0485-max-consecutive-ones](https://github.com/AyushKirtiSingh/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushKirtiSingh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AyushKirtiSingh/DSA/tree/master/0561-array-partition) |
@@ -784,6 +785,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushKirtiSingh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/AyushKirtiSingh/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushKirtiSingh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -880,6 +882,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushKirtiSingh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushKirtiSingh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
