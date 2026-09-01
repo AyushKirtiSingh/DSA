@@ -30,6 +30,7 @@
 | [0078-subsets](https://github.com/AyushKirtiSingh/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AyushKirtiSingh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushKirtiSingh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -778,6 +779,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushKirtiSingh/DSA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AyushKirtiSingh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/AyushKirtiSingh/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
@@ -874,6 +876,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AyushKirtiSingh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
@@ -887,4 +890,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AyushKirtiSingh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
