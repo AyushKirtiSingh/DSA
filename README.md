@@ -18,6 +18,7 @@
 | [0037-sudoku-solver](https://github.com/AyushKirtiSingh/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/AyushKirtiSingh/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/AyushKirtiSingh/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AyushKirtiSingh/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AyushKirtiSingh/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AyushKirtiSingh/DSA/tree/master/0051-n-queens) |
@@ -212,6 +213,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/AyushKirtiSingh/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/AyushKirtiSingh/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AyushKirtiSingh/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0088-merge-sorted-array) |
@@ -750,6 +752,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyushKirtiSingh/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushKirtiSingh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/AyushKirtiSingh/DSA/tree/master/0131-palindrome-partitioning) |
@@ -784,6 +787,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushKirtiSingh/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AyushKirtiSingh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushKirtiSingh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/AyushKirtiSingh/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
@@ -882,6 +886,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyushKirtiSingh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushKirtiSingh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0503-next-greater-element-ii) |
