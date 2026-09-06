@@ -118,6 +118,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/AyushKirtiSingh/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushKirtiSingh/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/AyushKirtiSingh/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -385,6 +386,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyushKirtiSingh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -435,6 +437,7 @@
 | [1512-number-of-good-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushKirtiSingh/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyushKirtiSingh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
