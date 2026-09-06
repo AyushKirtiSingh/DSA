@@ -185,6 +185,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/AyushKirtiSingh/DSA/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/AyushKirtiSingh/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3921-score-validator](https://github.com/AyushKirtiSingh/DSA/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/AyushKirtiSingh/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -204,6 +205,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
