@@ -409,6 +409,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/AyushKirtiSingh/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AyushKirtiSingh/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AyushKirtiSingh/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AyushKirtiSingh/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyushKirtiSingh/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -857,6 +858,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/AyushKirtiSingh/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AyushKirtiSingh/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AyushKirtiSingh/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -869,6 +871,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AyushKirtiSingh/DSA/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -904,6 +907,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AyushKirtiSingh/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AyushKirtiSingh/DSA/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
