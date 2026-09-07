@@ -180,6 +180,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushKirtiSingh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3861-minimum-capacity-box](https://github.com/AyushKirtiSingh/DSA/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -395,6 +396,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -461,6 +463,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushKirtiSingh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3843-first-element-with-unique-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/AyushKirtiSingh/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
