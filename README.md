@@ -395,6 +395,7 @@
 | [2404-most-frequent-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AyushKirtiSingh/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushKirtiSingh/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3692-majority-frequency-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
@@ -460,6 +461,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3692-majority-frequency-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/3692-majority-frequency-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushKirtiSingh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -706,6 +708,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/AyushKirtiSingh/DSA/tree/master/3163-string-compression-iii) |
+| [3692-majority-frequency-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/3692-majority-frequency-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AyushKirtiSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3921-score-validator](https://github.com/AyushKirtiSingh/DSA/tree/master/3921-score-validator) |
