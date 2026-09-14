@@ -94,6 +94,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushKirtiSingh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/AyushKirtiSingh/DSA/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AyushKirtiSingh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
+| [1095-find-in-mountain-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AyushKirtiSingh/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/AyushKirtiSingh/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AyushKirtiSingh/DSA/tree/master/1288-remove-covered-intervals) |
@@ -310,6 +311,7 @@
 | [0704-binary-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushKirtiSingh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AyushKirtiSingh/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -829,6 +831,7 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/AyushKirtiSingh/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AyushKirtiSingh/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1095-find-in-mountain-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -947,4 +950,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AyushKirtiSingh/DSA/tree/master/0239-sliding-window-maximum) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
