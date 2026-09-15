@@ -12,40 +12,11 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        queue<TreeNode*> q;
-        int count = 1;
+        if(root == NULL) return 0;
 
-        if(root==NULL){   //edge case of an empty tree without any root
-            return 0;
-        }
+        int leftht = maxDepth(root->left);     //recursively calc height of both left and right subtree and then apply the below formula to calculate height
+        int rightht = maxDepth(root->right);
 
-        q.push(root);
-        q.push(NULL);
-
-        while(q.size()>0){
-            TreeNode* curr = q.front();
-            q.pop();
-
-            if(curr==NULL){
-                if(!q.empty()){
-                    count++;
-                    q.push(NULL);
-                    continue;
-                }
-                else{
-                    break;
-                }
-            }
-
-            if(curr->left!=NULL){
-                q.push(curr->left);
-            }
-
-            if(curr->right!=NULL){
-                q.push(curr->right);
-            }
-        }
-
-        return count;
+        return max(leftht,rightht) + 1;
     }
 };
