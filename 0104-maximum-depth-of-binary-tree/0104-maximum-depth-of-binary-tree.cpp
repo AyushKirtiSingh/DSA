@@ -15,7 +15,7 @@ public:
         queue<TreeNode*> q;
         int count = 1;
 
-        if(root==NULL){
+        if(root==NULL){   //edge case of an empty tree without any root
             return 0;
         }
 
