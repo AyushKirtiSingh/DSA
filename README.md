@@ -870,6 +870,7 @@
 | [0100-same-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -971,6 +972,7 @@
 | [0100-same-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
@@ -979,10 +981,15 @@
 | [0100-same-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
