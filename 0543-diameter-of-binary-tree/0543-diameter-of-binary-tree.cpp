@@ -11,7 +11,9 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root){
+    int ans = 0;
+    int height(TreeNode* root){  //O(n)
+    
         if(root==NULL){
             return 0;
         }
@@ -19,20 +21,14 @@ public:
         int leftht = height(root->left);
         int rightht = height(root->right);
 
+        ans = max(ans, leftht+rightht);
+
         return max(leftht,rightht) + 1;
     }
 
-    int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL){
-            return 0;
-        }
+    int diameterOfBinaryTree(TreeNode* root) {   //Total time complexity: O(N) optimized only using one function not two and not doing recursive calling of diameterofbinarytree funcn.
+        height(root);
 
-        int leftdiam = diameterOfBinaryTree(root->left);
-        int rightdiam = diameterOfBinaryTree(root->right);
-
-        int diam = height(root->left) + height(root->right);
-
-        
-        return max(diam,max(leftdiam,rightdiam));
+        return ans;
     }
 };
