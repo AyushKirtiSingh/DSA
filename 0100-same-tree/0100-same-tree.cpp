@@ -12,15 +12,13 @@
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(p==NULL && q==NULL)return true;
-
-        if(p==NULL || q==NULL)return false;
-
-        if(p->val!=q->val){
-            return false;
+        if(p==NULL || q==NULL){ //this is the base case if both are null or any one root is null 
+            return p==q;
         }
 
-        
-        return isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
+        bool leftsame = isSameTree(p->left,q->left);   //checks left subtree is identical or not
+        bool rightsame = isSameTree(p->right,q->right);  //checks right subtree identical or not
+
+        return leftsame && rightsame && p->val == q->val;  //final return true if all these are true left and right subtree are identical and root ka value dono ka same ho
     }
 };
