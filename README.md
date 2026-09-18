@@ -873,6 +873,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -881,6 +882,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -975,6 +977,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -984,6 +987,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
