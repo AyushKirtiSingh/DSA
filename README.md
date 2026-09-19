@@ -377,6 +377,7 @@
 | [3024-type-of-triangle](https://github.com/AyushKirtiSingh/DSA/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3913-sort-vowels-by-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Counting Sort
 |  |
 | ------- |
@@ -405,6 +406,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
+| [3913-sort-vowels-by-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -725,6 +727,7 @@
 | [3692-majority-frequency-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/3692-majority-frequency-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AyushKirtiSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3913-sort-vowels-by-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3913-sort-vowels-by-frequency) |
 | [3921-score-validator](https://github.com/AyushKirtiSingh/DSA/tree/master/3921-score-validator) |
 ## Simulation
 |  |
