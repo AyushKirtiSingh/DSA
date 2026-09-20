@@ -724,6 +724,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/AyushKirtiSingh/DSA/tree/master/3163-string-compression-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3692-majority-frequency-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/3692-majority-frequency-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AyushKirtiSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -754,6 +755,7 @@
 | [2679-sum-in-a-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/AyushKirtiSingh/DSA/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AyushKirtiSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/AyushKirtiSingh/DSA/tree/master/3921-score-validator) |
