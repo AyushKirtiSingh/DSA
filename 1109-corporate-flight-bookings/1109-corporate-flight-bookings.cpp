@@ -5,6 +5,7 @@ public:
 
         for(auto &b : bookings){
             int start = b[0];      // difference array technique standard approach
+                                   // line sweep technique
             int end = b[1];
             int count = b[2];
 
