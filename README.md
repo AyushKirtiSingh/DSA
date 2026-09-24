@@ -692,6 +692,7 @@
 | [0131-palindrome-partitioning](https://github.com/AyushKirtiSingh/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AyushKirtiSingh/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/AyushKirtiSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -859,6 +860,7 @@
 | [0079-word-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AyushKirtiSingh/DSA/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/AyushKirtiSingh/DSA/tree/master/0257-binary-tree-paths) |
 ## Minimax
 |  |
 | ------- |
@@ -883,6 +885,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AyushKirtiSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -992,6 +995,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AyushKirtiSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
@@ -1005,6 +1009,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AyushKirtiSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
