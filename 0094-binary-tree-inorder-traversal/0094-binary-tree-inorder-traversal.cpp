@@ -12,15 +12,16 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        TreeNode* curr = root;
+        TreeNode* curr = root;   //MORRIS INORDER TRAVERSAL
         vector<int> ans;
 
-        while(curr!=NULL){
+        while(curr!=NULL){            // TIME COMPLEXITY : O(n)
             if(curr->left==NULL){
                 ans.push_back(curr->val);
                 curr = curr->right;
             }
             else{
+                //find the inorder predecessor
                 TreeNode* ip = curr->left;
                 while(ip->right!=NULL && ip->right!=curr){
                     ip = ip->right;
