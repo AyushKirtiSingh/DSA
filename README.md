@@ -78,6 +78,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AyushKirtiSingh/DSA/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/AyushKirtiSingh/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/AyushKirtiSingh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/AyushKirtiSingh/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AyushKirtiSingh/DSA/tree/master/0724-find-pivot-index) |
@@ -749,6 +750,7 @@
 | [0059-spiral-matrix-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/AyushKirtiSingh/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/AyushKirtiSingh/DSA/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AyushKirtiSingh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/AyushKirtiSingh/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -842,6 +844,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/AyushKirtiSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/AyushKirtiSingh/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushKirtiSingh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
