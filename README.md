@@ -964,6 +964,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/AyushKirtiSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AyushKirtiSingh/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/AyushKirtiSingh/DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -982,10 +983,12 @@
 | [0225-implement-stack-using-queues](https://github.com/AyushKirtiSingh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AyushKirtiSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/AyushKirtiSingh/DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/AyushKirtiSingh/DSA/tree/master/0933-number-of-recent-calls) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
