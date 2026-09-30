@@ -250,6 +250,7 @@
 | [0567-permutation-in-string](https://github.com/AyushKirtiSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/AyushKirtiSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/AyushKirtiSingh/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AyushKirtiSingh/DSA/tree/master/0905-sort-array-by-parity) |
@@ -710,6 +711,7 @@
 | [0692-top-k-frequent-words](https://github.com/AyushKirtiSingh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/AyushKirtiSingh/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AyushKirtiSingh/DSA/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/AyushKirtiSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/AyushKirtiSingh/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushKirtiSingh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/AyushKirtiSingh/DSA/tree/master/1496-path-crossing) |
@@ -751,6 +753,7 @@
 | [0412-fizz-buzz](https://github.com/AyushKirtiSingh/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/AyushKirtiSingh/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AyushKirtiSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/AyushKirtiSingh/DSA/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AyushKirtiSingh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/AyushKirtiSingh/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -846,6 +849,7 @@
 | [0503-next-greater-element-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AyushKirtiSingh/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/AyushKirtiSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushKirtiSingh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AyushKirtiSingh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
