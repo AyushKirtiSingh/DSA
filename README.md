@@ -946,6 +946,7 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyushKirtiSingh/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0229-majority-element-ii) |
 ## Algorithm X
 |  |
