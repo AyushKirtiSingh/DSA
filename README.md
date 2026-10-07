@@ -916,6 +916,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -927,6 +928,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -1039,6 +1041,7 @@
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -1060,6 +1063,7 @@
 | [0572-subtree-of-another-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Hash Function
@@ -1085,4 +1089,5 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AyushKirtiSingh/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
