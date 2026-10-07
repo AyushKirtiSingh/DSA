@@ -14,7 +14,7 @@ public:
     
     void inorder(TreeNode* root,vector<int> &ans){
         if(root==NULL){
-            return;
+            return;           // Time Complexity : O(n) && Space Complexity : O(n)
         }
 
         inorder(root->left,ans);
