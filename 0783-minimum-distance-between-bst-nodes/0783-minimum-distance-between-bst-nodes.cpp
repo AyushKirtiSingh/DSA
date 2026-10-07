@@ -11,29 +11,29 @@
  */
 class Solution {
 public:
-    
-    void inorder(TreeNode* root,vector<int> &ans){
-        if(root==NULL){
-            return;           // Time Complexity : O(n) && Space Complexity : O(n)
-        }
-
-        inorder(root->left,ans);
-        ans.push_back(root->val);
-        inorder(root->right,ans);
-
-    }
+    TreeNode * prev = NULL;
     int minDiffInBST(TreeNode* root) {
-        vector<int> result;
-
-        inorder(root,result);
-
-        int minval = INT_MAX;
-
-        for(int i=1;i<result.size();i++){
-            int diff = result[i]-result[i-1];
-            minval = min(minval,diff);
+        if(root==NULL){
+            return INT_MAX;
         }
 
-        return minval;
+        int ans = INT_MAX;
+
+        if(root->left){
+            int leftmin = minDiffInBST(root->left);
+            ans = min(ans,leftmin);
+        }
+
+        if(prev != NULL){
+            ans = min(ans,root->val-prev->val);
+        }
+        prev = root;
+
+        if(root->right){
+            int rightmin = minDiffInBST(root->right);
+            ans = min(ans,rightmin);
+        }
+
+        return ans;
     }
 };
