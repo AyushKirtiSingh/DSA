@@ -901,6 +901,7 @@
 ## Treap
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AyushKirtiSingh/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/0493-reverse-pairs) |
 ## Depth-First Search
 |  |
