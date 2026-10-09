@@ -1097,4 +1097,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/AyushKirtiSingh/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/AyushKirtiSingh/DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
