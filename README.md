@@ -126,6 +126,7 @@
 | [1672-richest-customer-wealth](https://github.com/AyushKirtiSingh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/AyushKirtiSingh/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushKirtiSingh/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -651,6 +652,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushKirtiSingh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AyushKirtiSingh/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/AyushKirtiSingh/DSA/tree/master/2032-two-out-of-three) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AyushKirtiSingh/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
