@@ -204,6 +204,7 @@
 | [3909-compare-sums-of-bitonic-parts](https://github.com/AyushKirtiSingh/DSA/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3921-score-validator](https://github.com/AyushKirtiSingh/DSA/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/AyushKirtiSingh/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -420,6 +421,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3866-first-unique-even-element) |
 | [3913-sort-vowels-by-frequency](https://github.com/AyushKirtiSingh/DSA/tree/master/3913-sort-vowels-by-frequency) |
+| [3978-unique-middle-element](https://github.com/AyushKirtiSingh/DSA/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
