@@ -285,6 +285,7 @@
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/AyushKirtiSingh/DSA/tree/master/0881-boats-to-save-people) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AyushKirtiSingh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
+| [1382-balance-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/AyushKirtiSingh/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -592,6 +593,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AyushKirtiSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AyushKirtiSingh/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
@@ -934,6 +936,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/AyushKirtiSingh/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -1063,6 +1066,7 @@
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1088,6 +1092,7 @@
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -1117,6 +1122,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Polygons
 |  |
 | ------- |
