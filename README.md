@@ -96,6 +96,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushKirtiSingh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/AyushKirtiSingh/DSA/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AyushKirtiSingh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
@@ -870,6 +871,7 @@
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AyushKirtiSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushKirtiSingh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/AyushKirtiSingh/DSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AyushKirtiSingh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1007,6 +1009,7 @@
 | [0503-next-greater-element-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AyushKirtiSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AyushKirtiSingh/DSA/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushKirtiSingh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
@@ -1058,6 +1061,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -1082,6 +1086,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Hash Function
 |  |
@@ -1111,6 +1116,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/AyushKirtiSingh/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Polygons
 |  |
 | ------- |
