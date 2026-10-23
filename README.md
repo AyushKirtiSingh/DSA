@@ -77,6 +77,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushKirtiSingh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AyushKirtiSingh/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/AyushKirtiSingh/DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKirtiSingh/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushKirtiSingh/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -282,6 +283,7 @@
 | [0134-gas-station](https://github.com/AyushKirtiSingh/DSA/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/AyushKirtiSingh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/AyushKirtiSingh/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/AyushKirtiSingh/DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/AyushKirtiSingh/DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/AyushKirtiSingh/DSA/tree/master/0881-boats-to-save-people) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AyushKirtiSingh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
