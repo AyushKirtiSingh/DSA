@@ -928,6 +928,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AyushKirtiSingh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushKirtiSingh/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -948,6 +949,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AyushKirtiSingh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AyushKirtiSingh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AyushKirtiSingh/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0965-univalued-binary-tree) |
@@ -961,6 +963,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AyushKirtiSingh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/AyushKirtiSingh/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AyushKirtiSingh/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -1057,6 +1060,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AyushKirtiSingh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushKirtiSingh/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1084,6 +1088,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushKirtiSingh/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AyushKirtiSingh/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushKirtiSingh/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushKirtiSingh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
