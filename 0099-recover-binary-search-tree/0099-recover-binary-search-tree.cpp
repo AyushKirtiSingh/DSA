@@ -39,3 +39,20 @@ public:
         swap(ans1[index[0]]->val,ans1[index[1]]->val);
     }
 };
+
+// Humne vector<TreeNode*> use kiya hai taaki original tree ke nodes ke
+// addresses store kar sakein, na ki sirf unki values.
+
+// Agar hum sirf vector<int> mein values store karke unhe swap karte,
+// toh changes sirf temporary array mein hote, original tree modify nahi hota.
+
+// Lekin TreeNode* mein original nodes ke addresses store hote hain,
+// isliye pointer ke through ->val access karke hum directly original
+// tree ke nodes ki values modify kar sakte hain.
+
+// Is approach mein tree ki original structure (left aur right pointers)
+// unchanged rehti hai, sirf incorrect node values swap hoti hain.
+
+// Hence, hum addresses ko swap nahi karte, balki un addresses par
+// stored actual node values ko swap karte hain.
+// swap(ans1[index[0]]->val, ans1[index[1]]->val);
