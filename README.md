@@ -113,6 +113,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushKirtiSingh/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AyushKirtiSingh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyushKirtiSingh/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -267,6 +268,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/AyushKirtiSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushKirtiSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/AyushKirtiSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -334,6 +336,7 @@
 | [1095-find-in-mountain-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AyushKirtiSingh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AyushKirtiSingh/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushKirtiSingh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/AyushKirtiSingh/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -378,6 +381,7 @@
 | [1288-remove-covered-intervals](https://github.com/AyushKirtiSingh/DSA/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AyushKirtiSingh/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushKirtiSingh/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushKirtiSingh/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushKirtiSingh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AyushKirtiSingh/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AyushKirtiSingh/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
